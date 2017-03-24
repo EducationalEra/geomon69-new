@@ -22,15 +22,13 @@
 11.	Значна  кількість  пропозицій  стосувалась  поняття  “Геополітика”  у  8  класі  як  такого, що  є  заскладним  для  учнів  даної  вікової  групи. Тому  з  проекту  прогррами  вилучено  поняття  “Геополітика”.
 12.	У  програмі  9  класу  введене  поняття  “Міжнародні  організації”  як  повноцінний  суб”єкт  системи  світової  економіки.
 
-<!--
 #### Детальна таблиця з коментарями до програм та зворотнім зв’язком модераторів{#table}
 
 Для того, щоб детально ознайомитися з врахованими/неврахованими коментарями дописувачів на EdEra під час першого етапу обговорення, перейдіть за посиланням. 
 <br>
 
 
-<center><a href="https://drive.google.com/file/d/0B2LCoyWVMpMSVXVRQW5WY0txSVk/view?usp=sharing" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Таблиця з коментарями</button></a></center>
--->
+<center><a href="https://drive.google.com/file/d/0B2LCoyWVMpMSQURXa1E5V1NkNWs/view?usp=sharing" target="_blank"><button type="button" class="btn btn-primary" aria-haspopup="true" aria-expanded="false">Таблиця з коментарями</button></a></center>
 
 <div class="js-hypercomments-container">
     <a href="http://hypercomments.com" class="hc-link" title="comments widget">comments powered by HyperComments</a>
